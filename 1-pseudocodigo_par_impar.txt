@@ -1,0 +1,6 @@
+Ejercicio par/impar obligatorio.
+
+se le solicita al usuario ingresar un numero.
+se le agrega un condicional (if) que identifica si el numero ingresado es igual que "CERO" y informa al usuario.
+se agrega una condicional (else if) que verifica si el numero ingresado es "PAR", si es par informa al usuario.
+se agrega una condicional (else) que informa al usuario que el numero ingresado es es "IMPAR".

@@ -1,0 +1,8 @@
+Prueba de escritorio:
+
+Datos de entrada     -     Salida deseada     -    Salida obtenida    -
+
+-       4            -          par           -           par         -
+-       9            -         impar          -          impar        -
+-       0            -          cero          -           cero        -
+-       11           -         impar          -          impar        -
